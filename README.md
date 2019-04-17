@@ -7,9 +7,9 @@ Collection of VIm resources
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Vim Advanced Tutorial](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
-* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger  *(Leanpub account or valid email requested)*
-* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
-* [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) (PDF)
+* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) 
+* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf)
+* [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf)
 * [Vim Regular Expressions 101](http://vimregex.com)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vim for the Last time](https://danielmiessler.com/study/vim/)

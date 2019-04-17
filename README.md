@@ -16,3 +16,5 @@ Collection of VIm resources
 * [Interractive Vim Tutorial](https://www.openvim.com/)
 * [Vim Adventures](https://vim-adventures.com/)
 * [Vim-galore](https://github.com/mhinz/vim-galore)
+* [Vim Wiki](https://github.com/vimwiki/vimwiki)
+* [Ultimate Vim Configuration](https://github.com/amix/vimrc)

@@ -15,3 +15,4 @@ Collection of VIm resources
 * [Learn Vim for the Last time](https://danielmiessler.com/study/vim/)
 * [Interractive Vim Tutorial](https://www.openvim.com/)
 * [Vim Adventures](https://vim-adventures.com/)
+* [Vim-galore](https://github.com/mhinz/vim-galore)

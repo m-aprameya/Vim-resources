@@ -3,6 +3,7 @@ Collection of VIm resources
 
 * [Vim Wikia](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 * [Vim Casts by Drew Neil](http://vimcasts.org/episodes/archive/)
+* [Vim Screencasts](https://www.youtube.com/watch?v=MAHC9eZbx4o&list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
 * [Vim Scripting - IBM developer works](https://www.ibm.com/developerworks/library/l-vim-script-1/index.html)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)

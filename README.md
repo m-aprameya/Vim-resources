@@ -19,3 +19,4 @@ Collection of VIm resources
 * [Vim-galore](https://github.com/mhinz/vim-galore)
 * [Vim Wiki](https://github.com/vimwiki/vimwiki)
 * [Ultimate Vim Configuration](https://github.com/amix/vimrc)
+* [Vim Tutorials by Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)

@@ -21,3 +21,4 @@ Collection of VIm resources
 * [Ultimate Vim Configuration](https://github.com/amix/vimrc)
 * [Vim Tutorials by Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)
 * [Vim Masterclass @Udemy](https://www.udemy.com/vim-commands-cheat-sheet/?ranMID=39197&ranEAID=mDjthAvMbf0&ranSiteID=mDjthAvMbf0-QhK5t9xrb8blDif10HtXgA&LSNPUBID=mDjthAvMbf0)
+* [Vim Golf](https://www.vimgolf.com/)
